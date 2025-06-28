@@ -84,6 +84,14 @@
     "115": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "115资源"
+    },
+    "鲨鱼": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼资源"
+    },
+    "细胞": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod,
+      "name": "细胞资源"
     }
   }
 }
