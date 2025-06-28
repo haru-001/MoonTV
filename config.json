@@ -80,6 +80,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "semao": {
+      "api": "https://caiji.semaozy.net/inc/api.php/provide/vod",
+      "name": "猫咪资源"
     }
   }
 }
